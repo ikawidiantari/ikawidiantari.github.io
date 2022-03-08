@@ -1,0 +1,5 @@
+baseURL = 'http://ikawidiantari.github.io/'
+languageCode = 'en-us'
+title = 'My only sunshine'
+theme = 'contrast-hugo'
+
